@@ -1,0 +1,48 @@
+/* BODY */
+body {
+	background-color: white;
+}
+
+section {
+	padding: 20px;
+}
+
+/* HEADER */
+
+.header_main-page {
+    background: url(../../images/main-page/header-bg.png);
+    background-attachment: fixed;
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo_main-page {
+	margin-top: 25px;
+	display: block;
+}
+
+.title-header_main-page {
+	padding: 200px 0;
+	color: white;
+}
+
+.block-item_header {
+	margin: 0;
+	padding: 10px;
+}
+
+.item_header {
+	border-width: 0;
+	border-radius: 0;
+	padding: 50px;
+	margin:0;
+
+	background-color: rgba(47, 102, 141, 0.9);
+	color: white;
+}
+
+.item_header p {
+	margin-top: 10px;
+}
+
+
